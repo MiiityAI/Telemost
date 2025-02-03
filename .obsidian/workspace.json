@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e68ccd8e664ed18f",
+        "id": "c22693d8a3dc9043",
         "type": "tabs",
         "children": [
           {
-            "id": "afe4fe85da810176",
+            "id": "639714f59b3a1d17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Как подключиться к Гитхабу со своего компьютера и сделать мост с Obsidian.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Как подключиться к Гитхабу со своего компьютера и сделать мост с Obsidian"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -94,9 +90,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Добро пожаловать.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Добро пожаловать"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -150,19 +145,8 @@
               "icon": "lucide-list",
               "title": "Структура Добро пожаловать"
             }
-          },
-          {
-            "id": "8bf3a2e5111564dd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,15 +165,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b97b11276fa2e0b5",
+  "active": "639714f59b3a1d17",
   "lastOpenFiles": [
-    "Холст1.canvas",
+    "README.md",
+    "34.txt",
     "Как подключиться к Гитхабу со своего компьютера и сделать мост с Obsidian.md",
+    "Холст1.canvas",
+    "256.txt",
+    "git_upload.sh",
     "Без названия 1.canvas",
     "Без названия 2.canvas",
     "инструкция.md",
     "123.txt",
-    "README.md",
     "123.md",
     "Добро пожаловать.md"
   ]
