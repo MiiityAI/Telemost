@@ -11,10 +11,17 @@
             "id": "639714f59b3a1d17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "canvas",
+              "state": {
+                "file": "Instructions.canvas",
+                "viewState": {
+                  "x": -60,
+                  "y": -80,
+                  "zoom": -1.6300320881841048
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Instructions"
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Instructions.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Instructions"
             }
           },
           {
@@ -159,18 +167,15 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "github-sync:Sync with Remote": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "639714f59b3a1d17",
+  "active": "b97b11276fa2e0b5",
   "lastOpenFiles": [
+    "Как подключиться к Гитхабу со своего компьютера и сделать мост с Obsidian.md",
     "README.md",
     "34.txt",
-    "Как подключиться к Гитхабу со своего компьютера и сделать мост с Obsidian.md",
-    "Холст1.canvas",
+    "Instructions.canvas",
     "256.txt",
     "git_upload.sh",
     "Без названия 1.canvas",
