@@ -15,9 +15,9 @@
               "state": {
                 "file": "Instructions.canvas",
                 "viewState": {
-                  "x": -60,
-                  "y": -80,
-                  "zoom": -1.6300320881841048
+                  "x": -520,
+                  "y": -520,
+                  "zoom": -0.6085805966240299
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Instructions.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Добро пожаловать"
+              "title": "Исходящие ссылки из Instructions"
             }
           },
           {
@@ -170,12 +170,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b97b11276fa2e0b5",
+  "active": "a751b08a8ec66943",
   "lastOpenFiles": [
-    "Как подключиться к Гитхабу со своего компьютера и сделать мост с Obsidian.md",
     "README.md",
-    "34.txt",
+    "Как подключиться к Гитхабу со своего компьютера и сделать мост с Obsidian.md",
     "Instructions.canvas",
+    "Без названия.md",
+    "34.txt",
     "256.txt",
     "git_upload.sh",
     "Без названия 1.canvas",
