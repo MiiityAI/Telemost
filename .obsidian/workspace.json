@@ -11,14 +11,17 @@
             "id": "639714f59b3a1d17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "С названием 1111.md",
-                "mode": "source",
-                "source": false
+                "file": "Instructions.canvas",
+                "viewState": {
+                  "x": -520,
+                  "y": -520,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "С названием 1111"
+              "icon": "lucide-layout-dashboard",
+              "title": "Instructions"
             }
           }
         ]
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "С названием 1111.md",
+                "file": "Instructions.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура С названием 1111"
+              "title": "Структура Instructions"
             }
           }
         ],
@@ -169,7 +172,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b97b11276fa2e0b5",
+  "active": "639714f59b3a1d17",
   "lastOpenFiles": [
     "Как подключиться к Гитхабу со своего компьютера и сделать мост с Obsidian.md",
     "С названием 1111.md",
